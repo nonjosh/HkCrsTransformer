@@ -4,6 +4,13 @@ simple conversion between HK1980 and WGS84
 HK1980 又名 EPSG 2326, 而 WGS84 (通用 GPS 坐標) 又名 EPSG 4326
 
 Examples
+```sh
+'''
+install dependency first
+'''
+# conda install pyproj -y
+pip install pyproj -y
+```
 ```py
 import CrsTransformer as ct
 
