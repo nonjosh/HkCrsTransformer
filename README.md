@@ -6,8 +6,8 @@ HK1980 又名 EPSG 2326, 而 WGS84 (通用 GPS 坐標) 又名 EPSG 4326
 ## Dependencies
 install dependency ```pyproj``` with ```conda install``` or ```pip install```
 ```sh
-# conda install pyproj -y
-pip install pyproj -y
+# conda install pyproj
+pip install pyproj
 ```
 
 ## Examples
